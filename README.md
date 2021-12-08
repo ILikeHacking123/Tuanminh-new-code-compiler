@@ -22,6 +22,7 @@ console.log(abc);
 ```
 #### The result
 > nul
+
 What if i using 
 ```crvar abc = "Hello Everybody"
 console.log(abc);
