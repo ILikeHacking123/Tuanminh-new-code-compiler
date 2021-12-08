@@ -22,5 +22,19 @@ console.log(abc);
 ```
 #### The result
 > nul
+What if i using 
+```crvar abc = "Hello Everybody"
+console.log(abc);
+```
+#### The result [2]
+> CEPLJS: PrintVar.CPL, at line 323: NOT A VALID OR INVALID VARIABLE!
+> 
+> CEPLJS: declareVar.CPL, at line 213, in module "CrVarModule":  NOT A VALID OR INVALID VARIABLE!
+
+## FOR & WHILE & Do-While
 ## TModule Using
-COMMING SOON
+TModule like a library, and not required to declare at first line of a .CPL file
+At TModule, all JavaScript or default CEPLJS rule is broken.
+### Print[TModule]
+At default CEPLJS, print using 'console.log' [https://github.com/TuanminhDev/Tuanminh-new-code-compiler/#Print]. But in TModule, it using a complex
+ 
