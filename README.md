@@ -68,6 +68,5 @@ TModule like a library, and not required to declare at first line of a .CPL file
 At TModule, all JavaScript or default CEPLJS rule is broken.
 ### Print[TModule]
 At default CEPLJS, print using 'console.log' [https://github.com/TuanminhDev/Tuanminh-new-code-compiler/#Print]. But in TModule, it using a complex command, like 'TModule.TextCfg.PrintText.Content("Var then not need double quotes, but normal content is need and very highy important and required double quotes");'
-### FUNCTION REMOVAL DECLARATION
+### FUNCTION REMOVAL PROCLATION
 So bad, TModule is too hard to creating and building... We will stop this at 9th, December, 2021; 5:00 AM Utc+7
- 
