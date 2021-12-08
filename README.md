@@ -25,7 +25,8 @@ console.log(abc);
 > nul
 
 What if i using 
-```crvar abc = "Hello Everybody"
+```
+crvar abc = "Hello Everybody"
 console.log(abc);
 ```
 #### The result [2]
