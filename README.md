@@ -17,7 +17,8 @@ And in CEPLJS then it still
 In javascript, we have `var` `let` `const` `catch` `...`
 In CEPLJS, we just have var(to create variable with content inside it) and crvar(to create variable with content is "nul" inside it)
 EXAMPLES:
-```crvar abc;
+```
+crvar abc;
 console.log(abc);
 ```
 #### The result
