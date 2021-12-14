@@ -30,9 +30,9 @@ crvar abc = "Hello Everybody"
 console.log(abc);
 ```
 #### The result [2]
-> CEPLJS: PrintVar.CPL, at line 323: NOT A VALID OR INVALID VARIABLE!
+> CEPLJS: PrintVar.CPL, at line xxx: NOT A VALID OR INVALID VARIABLE!
 > 
-> CEPLJS: declareVar.CPL, at line 213, in module "CrVarModule":  NOT A VALID OR INVALID VARIABLE!
+> CEPLJS: declareVar.CPL, at line xxx, in module "CrVarModule":  NOT A VALID OR INVALID VARIABLE!
 
 ## FOR & WHILE & Do-While
 ### For
